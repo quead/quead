@@ -1,5 +1,5 @@
-![quead github stats](https://github-readme-stats.vercel.app/api?username=quead)
-![quead github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quead&layout=compact)
+![quead github stats](https://github-readme-stats.vercel.app/api?username=quead&count_private=true&show_icons=true)
+![quead github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quead&layout=compact&count_private=true)
 
 <!--
 **quead/quead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
