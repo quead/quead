@@ -3,18 +3,19 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/user-attachments/assets/8f4c92ba-8a66-46b3-ae02-3f52a4ef07da"
+        srcset="https://github.com/user-attachments/assets/093aef8f-a745-450a-ba0c-d6201a66168e"
       >
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github.com/user-attachments/assets/4f61bd31-ce80-453e-ba36-0bb051d52d0f"
+        srcset="https://github.com/user-attachments/assets/43a0cb7e-5e7d-4514-b903-850ed855494d"
       >
       <img
-        src="https://github.com/user-attachments/assets/8f4c92ba-8a66-46b3-ae02-3f52a4ef07da"
+        src="https://github.com/user-attachments/assets/43a0cb7e-5e7d-4514-b903-850ed855494d"
         alt="Habarnam"
         width="250"
         style="max-width: 100%; height: auto;"
       />
     </picture>
+
   </a>
 </p>
